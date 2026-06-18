@@ -132,7 +132,7 @@ philosophy: >
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Examera1005&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Examera1005&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Examera1005&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280" />
 </div>
 
